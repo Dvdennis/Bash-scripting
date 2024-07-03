@@ -50,7 +50,7 @@ The `create_users.sh` script automates the process of creating users and groups 
 2. **Run the Script**:
     Execute the script and pass the input file as an argument:
     ```bash
-    sudo ./create_users.sh userfile.txt
+    sudo ./create_users.sh user_list.txt
     ```
 
 3. **Verify the Results**:
